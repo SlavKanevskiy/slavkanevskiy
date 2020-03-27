@@ -1,2 +1,0 @@
-# slavkanevskiy
-tourhunter_test
